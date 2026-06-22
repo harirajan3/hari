@@ -1,3 +1,22 @@
+# Hi, I'm Harirajan 👋
+
+## QA Automation Engineer
+
+- Playwright + TypeScript + Cucumber
+- Learning Python and AI
+- MCA (AI)
+
+### Skills
+- TypeScript
+- Playwright
+- Cucumber
+- Python
+- Git
+- SQL
+
+### Connect with me
+- GitHub: https://github.com/harirajan3
+
 <h1 align="center">Hi 👋, I'm hari rajan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
