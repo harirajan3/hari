@@ -1,7 +1,7 @@
 # Hi, I'm Harirajan 👋
 
-## QA Automation Engineer
-
+## Full Stack developer and automation tester
+ 
 - Playwright + TypeScript + Cucumber
 - Learning Python and AI
 - MCA (AI)
